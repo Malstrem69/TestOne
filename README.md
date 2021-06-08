@@ -1,1 +1,1 @@
-# Repositiry creataedd for practising with Git
+# Repositiry creataedfor practising with Git
