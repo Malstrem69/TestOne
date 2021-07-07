@@ -1,2 +1,1 @@
-TestText#1
-TestText#1
+print('Hello, world!')
